@@ -1,21 +1,21 @@
 # PitLogger – Logo
 
-Ein „P“, dessen Bauch ein Drehzahlmesser ist: blaue Skala, roter Bereich am Ende, Nadel nach
-rechts oben. Farben aus der Weboberfläche.
+A "P" whose bowl is a rev counter: blue scale, red zone at the end, needle pointing to the
+upper right. Colors taken from the web interface.
 
-| Datei | Verwendung |
+| File | Use |
 |---|---|
-| `pitlogger-avatar.svg` / `pitlogger-avatar-1024.png` | GitHub-Organisation (quadratisch ohne Rundung, GitHub rundet selbst) |
-| `pitlogger-icon.svg` / `pitlogger-icon-512.png` | App-Icon, Favicon, Weboberfläche (abgerundet, transparente Ecken) |
-| `pitlogger-wordmark-dark.svg` / `.png` | Logo mit Schriftzug für dunkle Hintergründe |
-| `pitlogger-wordmark-light.svg` / `.png` | Logo mit Schriftzug für helle Hintergründe (z.B. README) |
+| `pitlogger-avatar.svg` / `pitlogger-avatar-1024.png` | GitHub organization (square without rounding, GitHub rounds it) |
+| `pitlogger-icon.svg` / `pitlogger-icon-512.png` | app icon, favicon, web interface (rounded, transparent corners) |
+| `pitlogger-wordmark-dark.svg` / `.png` | logo with wordmark for dark backgrounds |
+| `pitlogger-wordmark-light.svg` / `.png` | logo with wordmark for light backgrounds (e.g. READMEs) |
 
-| Farbe | Wert |
+| Color | Value |
 |---|---|
-| Hintergrund | `#18212d` → `#0b1016` |
-| Blau (Akzent) | `#2b8fea` → `#6cc6ff`, Schrift `#2b8fea` |
-| Rot (Drehzahlgrenze) | `#ff4d4d` |
-| Weiß | `#e9eef4` |
+| Background | `#18212d` → `#0b1016` |
+| Blue (accent) | `#2b8fea` → `#6cc6ff`, text `#2b8fea` |
+| Red (redline) | `#ff4d4d` |
+| White | `#e9eef4` |
 
-Die Schriftzug-SVGs nutzen eine Systemschrift (Segoe UI, Inter, Helvetica, Arial) und sehen
-je nach Rechner leicht unterschiedlich aus; für feste Darstellung die PNGs verwenden.
+The wordmark SVGs use a system font (Segoe UI, Inter, Helvetica, Arial) and may look slightly
+different on each computer; use the PNGs where the exact look matters.

@@ -1,11 +1,11 @@
 # PitLogger/.github
 
-Organisationsweite Dateien der PitLogger-Organisation:
+Organization-wide files of the PitLogger organization:
 
-| Pfad | Zweck |
+| Path | Purpose |
 |---|---|
-| `profile/README.md` | Startseite der Organisation auf GitHub |
-| `branding/` | Logo in allen Varianten (SVG + PNG), Farben siehe `branding/README.md` |
+| `profile/README.md` | start page of the organization on GitHub |
+| `branding/` | logo in all variants (SVG + PNG), colors in `branding/README.md` |
 
-Dateien wie `CONTRIBUTING.md`, `SECURITY.md` oder Issue-Vorlagen in diesem Repo gelten
-automatisch für alle Repos der Organisation, die keine eigenen haben.
+Files such as `CONTRIBUTING.md`, `SECURITY.md` or issue templates in this repository apply
+automatically to all repositories of the organization that do not have their own.
