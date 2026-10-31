@@ -33,10 +33,10 @@ this project ever stops.
 
 | | |
 |---|---|
+| [pitlog](https://github.com/PitLogger/pitlog) | Open `.pitlog` file format specification – free converter to CSV, GPX and more coming soon |
 | [elm327-emulator](https://github.com/PitLogger/elm327-emulator) | ESP32 that behaves like an ELM327 adapter with a simulated car – develop and test OBD apps without a vehicle |
 
-More will follow: the `.pitlog` format specification and converter, and a module SDK for
-building your own add-ons.
+More will follow, including a module SDK for building your own add-ons.
 
 ---
 
